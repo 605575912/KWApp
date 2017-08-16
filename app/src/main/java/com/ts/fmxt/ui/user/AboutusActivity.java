@@ -20,6 +20,10 @@ public class AboutusActivity extends BaseWebActivity {
     private String url;
     private int  num;
 
+    /**
+     *
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
